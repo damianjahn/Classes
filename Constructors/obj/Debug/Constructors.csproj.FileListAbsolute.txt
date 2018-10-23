@@ -1,0 +1,6 @@
+C:\Users\damia\source\repos\Classes\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\damia\source\repos\Classes\Constructors\bin\Debug\Constructors.exe
+C:\Users\damia\source\repos\Classes\Constructors\bin\Debug\Constructors.pdb
+C:\Users\damia\source\repos\Classes\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\Classes\Constructors\obj\Debug\Constructors.exe
+C:\Users\damia\source\repos\Classes\Constructors\obj\Debug\Constructors.pdb

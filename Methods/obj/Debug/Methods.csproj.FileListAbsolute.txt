@@ -1,0 +1,7 @@
+C:\Users\damia\source\repos\Classes\Methods\bin\Debug\Methods.exe.config
+C:\Users\damia\source\repos\Classes\Methods\bin\Debug\Methods.exe
+C:\Users\damia\source\repos\Classes\Methods\bin\Debug\Methods.pdb
+C:\Users\damia\source\repos\Classes\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\Classes\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\Classes\Methods\obj\Debug\Methods.exe
+C:\Users\damia\source\repos\Classes\Methods\obj\Debug\Methods.pdb
