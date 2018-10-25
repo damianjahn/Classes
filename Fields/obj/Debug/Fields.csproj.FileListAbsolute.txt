@@ -1,0 +1,7 @@
+C:\Users\damia\source\repos\Classes\Fields\bin\Debug\Fields.exe.config
+C:\Users\damia\source\repos\Classes\Fields\bin\Debug\Fields.exe
+C:\Users\damia\source\repos\Classes\Fields\bin\Debug\Fields.pdb
+C:\Users\damia\source\repos\Classes\Fields\obj\Debug\Fields.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\Classes\Fields\obj\Debug\Fields.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\Classes\Fields\obj\Debug\Fields.exe
+C:\Users\damia\source\repos\Classes\Fields\obj\Debug\Fields.pdb
